@@ -1,4 +1,6 @@
-align:center"><img src="https://github.com/paelkunz/PaelKUNZ/blob/main/ztwo.jpg?raw=true" width="100" height="100"/>
+<p align="center">
+ <img src="https://github.com/paelkunz/PaelKUNZ/blob/main/ztwo.jpg?raw=true" width="100" height="100"/>
+ </p>
 <h1 align="center">Halo! Saya adalah PaelKUnz</h1>
 <h3 align="center">Saya adalah seorang anak 13 tahun yg ingin menambah ilmu di bidang Programming.</h3>
 
