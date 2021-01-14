@@ -1,3 +1,4 @@
+![alt text](https://github.com/paelkunz/PaelKUNZ/blob/main/ztwo.jpg?raw=true)
 <h1 align="center">Halo! Saya adalah PaelKUnz</h1>
 <h3 align="center">Saya adalah seorang anak 13 tahun yg ingin menambah ilmu di bidang Programming.</h3>
 
